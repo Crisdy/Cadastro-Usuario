@@ -29,7 +29,7 @@ public class Cadastro{
         System.out.print("Cep:");
         String cep = scanner.nextLine();
 
-        System.out.println("-- DADOS --");
+        System.out.println("--- DADOS ---");
         System.out.println(nome + "," + idade + "," + civil + "," + telefone);
         System.out.println("Endereço:" + endereco + "," + bairro + "," + cidade);
         System.out.println("Cep:" + cep);
